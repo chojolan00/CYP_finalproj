@@ -26,6 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
+## Asthma Related Emergency Department Visits throughout San Francisco Neighborhoods
+![Image](images/asthma_map.png)
+
+
 ## PM2.5 Distribution throughout SF Neighborhoods
 
 ![Image](images/pm2.5_map.png)
