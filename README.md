@@ -26,10 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
-##PM2.5 Distribution throughout SF Neighborhoods
+## PM2.5 Distribution throughout SF Neighborhoods
+
 ![Image](images/pm2.5_map.png)
 
-##Age-Adjusted Asthma Emergency Department Visits by SF Neighborhoods with Percentage of Minority Communities in Different Areas
+## Age-Adjusted Asthma Emergency Department Visits by SF Neighborhoods with Percentage of Minority Communities in Different Areas
+
 ![Image](images/minority_pop.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
