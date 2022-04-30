@@ -38,6 +38,10 @@ Syntax highlighted code block
 
 ![Image](images/minority_pop.png)
 
+## Correlation Plot: Asthma Related Emergency Department Visits by PM2.5 Concentrations Stratified by Race/Ethnicity
+![Image](images/ethn_plot.jpg)
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
