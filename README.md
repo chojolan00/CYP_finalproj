@@ -1,4 +1,4 @@
-### **The Distribution of PM 2.5 in San Franciso and its Relationship with Ashtma Hospitalization Rates**
+### The Distribution of PM 2.5 in San Franciso and its Relationship with Ashtma Hospitalization Rates
 
 You can use the [editor on GitHub](https://github.com/chojolan00/CYP_finalproj/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
