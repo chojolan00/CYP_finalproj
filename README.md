@@ -29,6 +29,9 @@ Syntax highlighted code block
 ## Assessing the distribution of PM2.5 Concentration in San Francisco neighborhoods
 ![Image](images/sf_pm-2.png)
 
+
+
+
 ## Asthma Related Emergency Department Visits throughout San Francisco Neighborhoods
 ![Image](images/asthma_map.png)
 
