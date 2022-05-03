@@ -1,4 +1,5 @@
-### The Distribution of PM 2.5 in San Franciso and its Relationship with Ashtma Hospitalization Rates
+# The Distribution of PM 2.5 in San Franciso and its Relationship with Ashtma Hospitalization Rates
+
 
 You can use the [editor on GitHub](https://github.com/chojolan00/CYP_finalproj/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,31 +28,31 @@ Syntax highlighted code block
 
 ```
 
-# Assessing the distribution of Age-Adjusted Asthma Hospitalization Rates by San Francisco Zip Codes
+### Assessing the distribution of Age-Adjusted Asthma Hospitalization Rates by San Francisco Zip Codes
 ![Image](images/sf_zip_sorted.png)
 
 
-# Assessing the distribution of PM2.5 Concentration in San Francisco neighborhoods
+### Assessing the distribution of PM2.5 Concentration in San Francisco neighborhoods
 ![Image](images/sf_pm_sorted.png)
 
 
-# Asthma Related Emergency Department Visits throughout San Francisco Neighborhoods
+### Asthma Related Emergency Department Visits throughout San Francisco Neighborhoods
 ![Image](images/asthma_map.png)
 
 
-# PM2.5 Distribution throughout SF Neighborhoods
+### PM2.5 Distribution throughout SF Neighborhoods
 
 ![Image](images/pm2.5_map.png)
 
-# Age-Adjusted Asthma Emergency Department Visits by SF Neighborhoods with Percentage of Minority Communities in Different Areas
+### Age-Adjusted Asthma Emergency Department Visits by SF Neighborhoods with Percentage of Minority Communities in Different Areas
 
 ![Image](images/minority_pop.png)
 
-# Correlation Plot: Assessing Correlation between Ashtma Related Emergecny Department Visits by PM2.5 Concentrations in San Francisco
+### Correlation Plot: Assessing Correlation between Ashtma Related Emergecny Department Visits by PM2.5 Concentrations in San Francisco
 
 ![Image](images/corr_plot.png)
 
-# Correlation Plot: Asthma Related Emergency Department Visits by PM2.5 Concentrations Stratified by Race/Ethnicity
+### Correlation Plot: Asthma Related Emergency Department Visits by PM2.5 Concentrations Stratified by Race/Ethnicity
 ![Image](images/ethn_plot.png)
 
 
