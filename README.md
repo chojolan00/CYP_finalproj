@@ -38,6 +38,10 @@ Syntax highlighted code block
 
 ![Image](images/minority_pop.png)
 
+## Correlation Plot: Assessing Correlation between Ashtma Related Emergecny Department Visits by PM2.5 Concentrations in San Francisco
+
+![Image](images/corr_plot.png)
+
 ## Correlation Plot: Asthma Related Emergency Department Visits by PM2.5 Concentrations Stratified by Race/Ethnicity
 ![Image](images/ethn_plot.png)
 
