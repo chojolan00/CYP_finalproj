@@ -26,8 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
+
+## Assessing the distribution of Age-Adjusted Asthma Hospitalization Rates by San Francisco Zip Codes
+![Image](images/sf_zip_sorted.png)
+
+
 ## Assessing the distribution of PM2.5 Concentration in San Francisco neighborhoods
-![Image](images/sf_pm.png)
+![Image](images/sf_pm_sorted.png)
 
 
 ## Asthma Related Emergency Department Visits throughout San Francisco Neighborhoods
