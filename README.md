@@ -1,8 +1,10 @@
 # The Distribution of PM 2.5 in San Franciso and its Relationship with Ashtma Hospitalization Rates
 
-##Asthma
-In 2017, Asthma related complications resulteed in an estimate 1.6 million emerency departments visits throughout the country. The prevalence of ashtma mong the United States population was about %8 in 2018. While there has been a decrease in trend on asthma among children, there continues to be inequities that influence asthma related outcomes. According to surveys by the CDC, asthma prevalence was found to be higher among families with a family income of <100% from the federal poverty line. 
+## Asthma
+In 2017, Asthma related complications resulted in an estimated 1.6 million emerency departments visits throughout the country. The prevalence of ashtma among the United States population was about %8 in 2018. While there has been a decrease in trend on asthma among children, there continues to be inequities that influence asthma related outcomes. According to surveys by the CDC, asthma prevalence was found to be higher among families with a family income of <100% of the federal poverty line. 
 
+## Particulate Matter 2.5 (PM2.5)
+Partiuclate matter is a source of air pollution that has shown to have adverse health effects on human health. Emissions of PM2.5 come from a variety of sources such as cars, trucks, industrical industries and other activities involving combustion. Research has shown that particulate matter can excarcerbate pre-exisitng conditions in the heart and lungs. California is one of the states that has 6 counties currently violating the United States Environmental Protection Agency's (EPA) standard. Furthermore, research has also shown the inequities in health outcomes due to exposure to PM2.5 in vulnerable populations such children, pregnant women and communities of color. There are risk factors that puts individuals and commnunities at greater risk for exposure to PM2.5 that can increase their risk for adverse health outcomes. 
 
 You can use the [editor on GitHub](https://github.com/chojolan00/CYP_finalproj/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
