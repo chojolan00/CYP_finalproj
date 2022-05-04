@@ -1,6 +1,7 @@
 ![Image](images/sf_skyline_wide.jpeg)
 # The Distribution of PM 2.5 in San Francisco and its Relationship with Ashtma Hospitalization Rates
 
+
 ## Asthma
 In 2017, Asthma related complications resulted in an estimated 1.6 million emerency departments visits throughout the country. The prevalence of ashtma among the United States population was about %8 in 2018. While there has been a decrease in trend on asthma among children, there continues to be inequities that influence asthma related outcomes. According to surveys by the CDC, asthma prevalence was found to be higher among families with a family income of <100% of the federal poverty line. 
 
@@ -12,36 +13,16 @@ The topic of environmental health has over time focused on environmental health 
 
 ![SF Redlining Map](images/sf_redline.jpeg)
 
-You can use the [editor on GitHub](https://github.com/chojolan00/CYP_finalproj/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
 
 ### Assessing the distribution of Age-Adjusted Asthma Hospitalization Rates by San Francisco Zip Codes
 ![Image](images/sf_zip_sorted.png)
-
+After assessing the distribution of age-adjusted ashtma hospitalization rates by SF zip codes we identified 4 zip codes of interest:
+- 94103: South of Market
+- 94124: Hunters Point
+- 94110: Inner Mission
+- 94134: Portola
+In the following maps, we visually compared the location of these neighborhoods in relation to PM2.5 concentrations, asthma hospitalization rates and percentage of minority populations by neighborhood. 
 
 ### Assessing the distribution of PM2.5 Concentration in San Francisco neighborhoods
 ![Image](images/sf_pm_sorted.png)
@@ -62,17 +43,10 @@ Syntax highlighted code block
 ### Correlation Plot: Assessing Correlation between Ashtma Related Emergecny Department Visits by PM2.5 Concentrations in San Francisco
 
 ![Image](images/corr_plot.png)
+While the correlation plot has scaterred points we can assess a positive trend of PM2.5 concentration and asthma related emergency department visits. While we can't drive inference based on this plot, it allows us to further explore the topic of these two variables.  
 
 ### Correlation Plot: Asthma Related Emergency Department Visits by PM2.5 Concentrations Stratified by Race/Ethnicity
 ![Image](images/ethn_plot.png)
+This plot was stratified by ethnicity to see if there was any correlation between race/ethnicity and out variables of interest. There was no significant correlation between our variables but there was a positive trend for asthma related emergency department visits and PM2.5 concentrations in Hispanic and African American populations. This is in par with the current literature regarding the disproportionate exposures to environmental burdens on communities of color. 
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chojolan00/CYP_finalproj/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
