@@ -1,6 +1,10 @@
 ![Image](images/sf_skyline_wide.jpeg)
-
-#The Distribution of PM 2.5 in San Francisco and its Relationship with Ashtma Hospitalization Rates
+<h1>
+<div align="center"> 
+  <p><strong>
+The Distribution of PM 2.5 in San Francisco and its Relationship with Ashtma Hospitalization Rates</strong></p>
+</div>
+</h1>
 
 &nbsp;&nbsp;
 ## Asthma
