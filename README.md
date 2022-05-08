@@ -1,8 +1,8 @@
 ![Image](images/sf_skyline_wide.jpeg)
 # The Distribution of PM 2.5 in San Francisco and its Relationship with Ashtma Hospitalization Rates
 
-
-&nbsp;&nbsp;## Asthma
+&nbsp;&nbsp;
+## Asthma
 In 2017, Asthma related complications resulted in an estimated 1.6 million emerency departments visits throughout the country. The prevalence of ashtma among the United States population was about 8% in 2018. While there has been a decrease in trend on asthma among children, there continues to be inequities that influence asthma related outcomes. According to surveys by the CDC, asthma prevalence was found to be higher among families with a family income of <100% of the federal poverty line. 
 
 ## Particulate Matter 2.5 (PM2.5)
