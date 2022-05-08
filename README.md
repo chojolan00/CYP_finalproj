@@ -25,10 +25,13 @@ The topic of environmental health has over time focused on environmental health 
 ![Image](images/sf_zip_sorted.png)
 &nbsp;
 After assessing the distribution of age-adjusted ashtma hospitalization rates by SF zip codes we identified 4 zip codes of interest:
-- 94103: South of Market
-- 94124: Hunters Point
-- 94110: Inner Mission
-- 94134: Portola
+* 94103: South of Market
+* 94124: Hunters Point
+* 94110: Inner Mission
+* 94134: Portola
+***
+
+In the following maps, we visually compared the location of these neighborhoods in relation to PM2.5 concentrations, asthma hospitalization rates and percentage of minority populations by neighborhood. 
 
 ### Assessing the distribution of PM2.5 Concentration in San Francisco neighborhoods
 ![Image](images/sf_pm_sorted.png)
