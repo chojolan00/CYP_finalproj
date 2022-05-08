@@ -67,7 +67,7 @@ In regards to our mission to addressing environmental justice, this map is aimed
 &nbsp;&nbsp;
 ### Correlation Plot: Assessing Correlation between Ashtma Related Emergecny Department Visits by PM2.5 Concentrations in San Francisco
 
-![Image](images/corr_plot.png
+![Image](images/corr_plot.png)
 <div align="left">
 While the correlation plot has a large spread, we can assess a positive trend of PM2.5 concentration and asthma related emergency department visits in San Francisco. Since we can't drive inference based on this plot, it helps us to further explore the topic of these two variables.  
 </div>
@@ -75,6 +75,8 @@ While the correlation plot has a large spread, we can assess a positive trend of
 &nbsp;&nbsp;
 ### Correlation Plot: Asthma Related Emergency Department Visits by PM2.5 Concentrations Stratified by Race/Ethnicity
 ![Image](images/ethn_plot.png)
+<div aligh="left">
 This plot was stratified by ethnicity to see if there was any correlation between race/ethnicity and the variables of interest. There was no significant correlation between our variables but there was a positive trend for asthma related emergency department visits and PM2.5 concentrations in Hispanic and African American populations. This is in par with the current literature regarding the disproportionate exposures to environmental burdens on communities of color. 
+</div>
 
 
