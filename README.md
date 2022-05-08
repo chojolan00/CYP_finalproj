@@ -1,10 +1,12 @@
 ![Image](images/sf_skyline_wide.jpeg)
+
 <h1>
 <div align="center"> 
   <p><strong>
 The Distribution of PM 2.5 in San Francisco and its Relationship with Ashtma Hospitalization Rates</strong></p>
 </div>
 </h1>
+
 
 &nbsp;&nbsp;
 ## Asthma
@@ -18,15 +20,15 @@ The topic of environmental health has over time focused on environmental health 
 
 ![SF Redlining Map](images/sf_redline.jpeg)
 
-
-
+&nbsp;&nbsp;&nbsp;
 ### Assessing the distribution of Age-Adjusted Asthma Hospitalization Rates by San Francisco Zip Codes
-![Image](images/sf_zip_sorted.png)
+![Image](images/sf_zip_sorted.png)&nbsp;
 After assessing the distribution of age-adjusted ashtma hospitalization rates by SF zip codes we identified 4 zip codes of interest:
 - 94103: South of Market
 - 94124: Hunters Point
 - 94110: Inner Mission
 - 94134: Portola
+&nbsp;
 In the following maps, we visually compared the location of these neighborhoods in relation to PM2.5 concentrations, asthma hospitalization rates and percentage of minority populations by neighborhood. 
 
 ### Assessing the distribution of PM2.5 Concentration in San Francisco neighborhoods
